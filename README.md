@@ -1,2 +1,2 @@
 # McGregor
-Main repo for the McGregor cryptocurrency
+Main repo for the McGregor cryptocurrency.
