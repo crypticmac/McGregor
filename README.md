@@ -1,5 +1,4 @@
-# McGregor
-McGregor Core integration/staging tree
+McGregor Core
 =====================================
 
 https://mcgregorproject.com
