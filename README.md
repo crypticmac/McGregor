@@ -38,9 +38,7 @@ You need the Qt4 run-time libraries to run Mcgregor-Qt. On Debian or Ubuntu:
 
 Unpack the files into a directory and run:
 
-- bin/32/Mcgregor-qt (GUI, 32-bit) or bin/32/Mcgregord (headless, 32-bit)
-- bin/64/Mcgregor-qt (GUI, 64-bit) or bin/64/Mcgregord (headless, 64-bit)
-
+- Mcgregor-qt
 
 
 ### Windows
@@ -49,7 +47,7 @@ Unpack the files into a directory, and then run Mcgregor-qt.exe.
 
 ### OS X
 
-Drag Mcgregor-Qt to your applications folder, and then run Mcgregor-Qt.
+Drag Mcgregor-Qt to your applications folder, close the installer and then run Mcgregor-Qt.
 
 License
 -------
