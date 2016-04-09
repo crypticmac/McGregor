@@ -27,7 +27,29 @@ This was done to remove the need to build everything in a Debian virtual machine
 Please only download executables from either here (GitHub  - releases) or mcgregorproject.com.
 
 
+Running
+-------
 
+### Unix
+
+You need the Qt4 run-time libraries to run Mcgregor-Qt. On Debian or Ubuntu:
+
+	sudo apt-get install libqtgui4
+
+Unpack the files into a directory and run:
+
+- bin/32/Mcgregor-qt (GUI, 32-bit) or bin/32/Mcgregord (headless, 32-bit)
+- bin/64/Mcgregor-qt (GUI, 64-bit) or bin/64/Mcgregord (headless, 64-bit)
+
+
+
+### Windows
+
+Unpack the files into a directory, and then run Mcgregor-qt.exe.
+
+### OS X
+
+Drag Mcgregor-Qt to your applications folder, and then run Mcgregor-Qt.
 
 License
 -------
