@@ -19,8 +19,14 @@ the McGregor Core software, see http://mcgregorproject.com
 
 Mcgregor is based on Litecoin and as such it can be mined using a regular old CPU.
 
-
 Please note that this project is a work in progress and will need to evolve over time.
+
+A note regarding executables :
+Custom (non-Gitian) scripts are being used to build the executables at the moment.
+This means that the timestamps are not being faked across builds and also the files are not being digitally signed.
+This was done to remove the need to build everything in a Debian virtual machine and to avoid the Gitian build process. Gitian builds will be revisited at a later stage, if needed.
+Please only download executables from either here (GitHub  - releases) or mcgregorproject.com.
+
 
 
 
